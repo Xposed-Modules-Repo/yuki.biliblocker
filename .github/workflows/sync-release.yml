@@ -44,7 +44,7 @@ jobs:
         with:
           token: ${{ secrets.SYNC_PAT }}
           repo: yuki.biliblocker
-          owner: nijika-boyfriend
+          owner: Xposed-Modules-Repo
           artifacts: "BiliBlocker.apk"
           tag: ${{ github.event.release.tag_name }}
           name: ${{ github.event.release.name }}
