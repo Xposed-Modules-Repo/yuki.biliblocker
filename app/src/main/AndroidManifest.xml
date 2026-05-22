@@ -11,7 +11,7 @@
             android:value="true" />
         <meta-data
             android:name="xposeddescription"
-            android:value="在B站评论区添加「加入黑名单」按钮，一键拉黑评论用户" />
+            android:value="为 B 站 tv.danmaku.bili 评论区和播放页添加「拉黑」按钮，点击后直接拉黑作者。" />
         <meta-data
             android:name="xposedminversion"
             android:value="82" />
